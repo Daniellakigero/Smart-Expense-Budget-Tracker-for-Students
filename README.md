@@ -1,10 +1,14 @@
-<img src='screenshots/icon.png' width='85px'/>
 
-# Expense Tracker
 
-A Flutter App with which you can track your daily expenditures.
-It shows a Real-Time Weekly Bar Graph of the tracked Expenditures.
-You can also delete an added expenditure.
+# Student Mental Wellness & Peer Support App
+
+A Flutter app designed to support students in managing their mental wellness.
+It enables users to track their moods, write journal entries, and connect with peer support groups.
+
+The app also offers real-time visualizations of mood trends, guided meditation exercises for stress relief, and quick access to emergency contacts.
+With offline storage, users can securely save their journals and mood logs locally for privacy and convenience.
+
+
 
 # Run The App on Your Android Device Now
 
@@ -34,23 +38,17 @@ You can also delete an added expenditure.
 
 • Add Pictures – Add pictures of bills to keep track of your spendings.
 
-• Open Source – Expense Tracker is a completely open source app made by a single developer from scratch.
 
-<b>
-<u>Disclaimer:</u>
-This app is purely made for learning purposes. Please treat it as such.
-</b>
+# Technology Stack
+List the technologies, libraries, and frameworks used:
 
-For support, questions, or more information, please mail: contact@ankan.dev
+- Flutter: Framework for building the app.
+- Dart: Programming language.
+- BLoC (Business Logic Component): State management solution.
+- Sqflite: Local database storage.
+- Firebase: Authentication and notifications.
 
-Checkout my site ([ankan.dev](https://ankan.dev)) or follow me on ([Twitter](https://twitter.com/ankan_sikdar)) and ([Instagram](https://www.instagram.com/ankan_sikdar)) for any updates.
 
-## Legal Things
-
-### Privacy Policy
-
-[Click here to read the privacy policy](https://expense-tracker-privacy.web.app/).
-
-### License
-
-Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
+  ---------------------------------------------------------------------------------------------------------------------------------------
+  Names : Kigero Kanyana Daniella
+   Id : 24652
