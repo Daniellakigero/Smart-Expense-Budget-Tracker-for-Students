@@ -1,13 +1,12 @@
 
 
-# Student Mental Wellness & Peer Support App
+# Smart Expense & Budget Tracker for Students
 
-A Flutter app designed to support students in managing their mental wellness.
-It enables users to track their moods, write journal entries, and connect with peer support groups.
+A Flutter app designed to help students manage their personal finances effectively.
 
-The app also offers real-time visualizations of mood trends, guided meditation exercises for stress relief, and quick access to emergency contacts.
-With offline storage, users can securely save their journals and mood logs locally for privacy and convenience.
+With this app, users can log daily expenses, categorize spending, and set monthly budgets to stay on track. It features real-time visualizations, such as weekly bar graphs, to analyze spending habits and track financial goals.
 
+Additional features include savings goal tracking, budget alerts for overspending, and the ability to delete or update logged transactions. Offline storage ensures that all financial data remains accessible even without an internet connection, offering convenience and privacy.
 
 
 # Run The App on Your Android Device Now
